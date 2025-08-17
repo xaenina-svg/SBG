@@ -1,131 +1,111 @@
-![Wuzen Banner](banner.png)
-
-<div align="center">
-
-# 🧠 WUZEN  
-### 中国研发 · 全球呈现  
-**Remote Administration Framework for Advanced Endpoint Interaction**  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/WUZEN-Android%20Control-darkred?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 ---
 
-## ✦ Introduction / 简介  
+# ⚡ WUZEN
+> **Advanced Android Device Control Framework for Security Teams**  
+> Built for **red team operators** and **security researchers** to simulate modern mobile threats in controlled environments.  
 
-Wuzen is built for those who value **control and invisibility**.  
-Wuzen 专为重视 **控制与隐匿** 的人而打造。  
-
-It does not knock — it enters silently.  
-它不会敲门 —— 它会悄然进入。  
-
-It does not watch — it **owns the view**.  
-它不仅仅观察 —— 它 **掌控视野**。  
-
-Where others collect fragments, Wuzen connects them into **complete power**.  
-当别人收集碎片时，Wuzen 将其编织成 **完整的力量**。  
+⚠️ **Disclaimer**: This project is for **educational and authorized security testing only**.  
+Use of this tool outside legal engagements may violate laws and GitHub policies.  
 
 ---
 
-## ✦ Central Control Panel / 控制中心  
-
-A centralized management hub designed for professionals.  
-每台设备独立呈现，支持逐设备的深度配置。  
-
-✔ Precision on/off toggles for every module  
-✔ Device grouping & separation  
-✔ Secure web panel & Telegram bridge  
-✔ Identity requests for advanced access mapping  
-
-<p align="center">📎 *Attach Showcase — Screenshot / Video*</p>  
+## ✨ Overview
+**WUZEN** provides:  
+- Full-spectrum Android assessment modules  
+- Realistic adversary simulation tools  
+- Persistence & stealth testing for mobile environments  
 
 ---
 
-## ✦ Core Modules / 核心模块  
-
-### 📡 Communication Intelligence / 通信情报  
-- **Receive Messages** — Silent interception of SMS for full session mapping  
-- **Send Messages** — Remote-triggered outbound messaging, seamless and authentic  
-- **Broadcast Mode** — Single instruction → all contacts instantly reached  
-- **Call History** — Complete inbound/outbound logs with metadata  
-
-<p align="center">📎 *Attach Showcase*</p>  
+# 🧩 Feature Categories  
 
 ---
 
-### 🧩 Identity & Access Mapping / 身份与访问分析  
-- **Contacts Extraction** — Build relational graphs of all saved networks  
-- **SIM & Carrier Info** — Device-level fingerprinting with operator metadata  
-- **Application Inventory** — Installed apps list for behavioral profiling  
-- **Authenticator Codes** — Token capture for secured session expansion  
-
-<p align="center">📎 *Attach Showcase*</p>  
-
----
-
-### 🌀 Vision & Presence / 视野与存在  
-- **Camera Trigger** — Silent snapshots from front/back lens  
-- **Invisible Remote Desktop (HVNC)** — Hidden session operation bypassing security overlays  
-- **Keystroke Analysis** — Full key input logging with contextual tracking  
-- **Screen Stream** — Continuous user-view mirroring, bypassing app restrictions  
-- **Notification Feed** — Messaging & social updates with optional concealment  
-
-<p align="center">📎 *Attach Showcase*</p>  
+## 🔹 Baseline Recon
+Core device information gathering for **posture assessment**.  
+- 📩 SMS log & delivery simulation  
+- 📞 Call & contact extraction  
+- 📡 SIM / system / apps inventory  
+- 📍 Location telemetry in background  
+- 📸 Camera access checks (front/back)  
+- 🔔 Notification event logging (chat, mail, social)  
+- 👻 Selective notification suppression  
 
 ---
 
-### 📍 Location & System / 位置与系统  
-- **Live Geolocation** — Continuous trail mapping with background persistence  
-- **System Profiling** — Full hardware + OS information for target analysis  
-
-<p align="center">📎 *Attach Showcase*</p>  
-
----
-
-### 💳 Data & Financial Operations / 数据与金融  
-- **Exchange Logs** — Extract records from major crypto platforms (Binance, OKX, Coinbase, Trust, etc.)  
-- **Clipboard Monitor** — Real-time substitution engine for digital wallet addresses  
-
-<p align="center">📎 *Attach Showcase*</p>  
+## 🔑 Stealth Operations
+Simulating adversary persistence & covert access.  
+- ⌨ **Input Capture** – keystroke & screen event monitoring  
+- 🖥 **Covert Session Viewer (HVNC)** – hidden remote screen stream  
+- 🔑 **MFA Testing Modules** – Google / Microsoft authenticator simulation  
+- 📲 **Push Simulation** – crafted notification delivery  
+- 🚀 **Background Actions** – open apps/links in stealth  
 
 ---
 
-### 🛠 Persistence & Stealth / 持久与隐匿  
-- **Auto-Start** — Self-reactivation with every reboot  
-- **Background Residency** — Silent indefinite presence, resistant to removal  
+## 🕷 Advanced Modules
+Adversary simulation components for high-fidelity testing.  
+- 🪪 Fake identity prompts (credential phishing emulation)  
+- 🧩 Injection & overlay simulations  
+- 💀 Custom payload testing toolkit  
+- ❄ Device lock/freezer simulation  
+- 📝 Local data extraction checks  
+- 📚 200+ prebuilt templates for red team campaigns  
 
-<p align="center">📎 *Attach Showcase*</p>  
+### 💰 Financial Security Testing
+- **Exchange / Wallet simulation modules**  
+- **Clipboard replacement scenarios** (BTC, ETH, XMR, DOGE, SOL, ADA, TRX, etc.)  
 
----
-
-## ✦ Access Levels / 访问等级  
-
-| Version 版本   | Price 价格 | Duration 时长 | Features 功能 |
-|----------------|-----------|---------------|---------------|
-| **Wuzen Lite** | $48       | 1 Week 一周   | Limited Feature Set / 功能受限 |
-| **Wuzen Pro**  | $148      | 1 Week 一周   | Full Feature Access / 全部功能 |
-
----
-
-## ✦ Contact / 联系方式  
-
-📩 Telegram / WeChat (Official Support)  
-💰 Payment: Crypto Only (BTC, ETH, USDT, XMR)  
+### 🛡 Resilience Testing
+- Uninstall protection scenarios  
+- Boot persistence checks  
+- Background process survivability  
 
 ---
 
-## ✦ Disclaimer / 免责声明  
-
-> Wuzen is an **advanced research framework** intended for **authorized red-team evaluation, testing, and controlled environments**.  
-> Wuzen 仅为 **红队研究、测试与受控环境** 而创建。  
-
-> Any unauthorized use is strictly outside intended scope.  
-> 未经授权的使用行为均不在支持范围之内。  
+# 🖥 Control Panel
+Central management interface for campaign orchestration.  
+- 🛠 Toggle modules: Input, SMS, Notifications, Screen logging  
+- 👻 Hide/Show notification events  
+- 💼 Multi-wallet test configurations  
+- 🔗 Manage devices via web panel + Telegram integration  
+- ♾ Unlimited devices, isolated containers  
+- ⚙ Per-device configs  
+- 🪪 Trigger verification pop-ups remotely  
 
 ---
 
-<div align="center">
+# 🖤 Why WUZEN?
+WUZEN is not a “remote access tool.”  
+It’s a **research & training framework** to:  
+- Emulate advanced mobile threat actors  
+- Test resilience against real-world attack vectors  
+- Train incident responders in **stealth & persistence detection**  
 
-`中国研发 · 国际视野`  
-*Developed in China · Presented to the World*  
+---
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Team-Framework-darkred?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+---
+
+## 📡 Contact
+<p align="center">
+  <a href="https://t.me/YourTelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010&color=2AABEE">
+  </a>
+  <a href="https://wechat.com/YourWechatID" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat-Connect-green?style=for-the-badge&logo=wechat&logoColor=white&labelColor=101010&color=07C160">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WUZEN-Research%20Only-darkred?style=for-the-badge&logo=android&logoColor=white" />
+</p>
