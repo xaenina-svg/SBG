@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>“If you can see it… it’s already too late.”</em>
+  <em>“If you can see it… it’s already too latee.”</em>
 </p>
 
 # ⚡ WUZEN
